@@ -24,7 +24,7 @@ for i in tqdm(range(0,100),desc="Loading : ",ascii="123456789♦"):
 SOLUTION searched with @techmouhib 
 
 :closed_book: :battery: :page_with_curl:
-__here pdf search code & Progress BAR __
+__HERE pdf search code & Progress BAR__
 :closed_book::battery: :page_with_curl:
 
 ```python
