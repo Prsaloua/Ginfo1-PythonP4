@@ -84,5 +84,6 @@ for i in tqdm(range(0,100), desc = "loading : ",ascii="123456789$"):
 
 print("END OF PROGRAM")
 ```
-
+> We're living so
+> Live it Fully
 #### Hope you enjoy our journey with that project
