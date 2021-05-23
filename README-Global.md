@@ -19,7 +19,7 @@ function fancyAlert(arg) {
 ```
 
 
-:search: ##Progress bar
+▪️ ▫️ ◾ ◽ ◼️ ◻️  ##Progress bar
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
