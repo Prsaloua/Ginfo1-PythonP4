@@ -8,7 +8,7 @@
 
 
 :battery: ##Progress bar
-```
+```python
 
 from tqdm import tqdm
 from time import sleep
@@ -21,7 +21,7 @@ def progress(bar):
 
 
 ▪️ ▫️ ◾ ◽ ◼️ ◻️  ##PDf Search
-```
+```python
 
 import PyPDF2
 import re
