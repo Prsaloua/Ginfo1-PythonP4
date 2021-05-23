@@ -2,6 +2,8 @@
 ## Python Class Project Number 4
 ### VERSION OF SAMIA TOURRIZ
 
+
+:battery: ##Progress bar
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
