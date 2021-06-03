@@ -5,7 +5,7 @@ import re
 
 
 def progress(bar):
-    for i in tqdm(bar, desc = "loading : ",ascii="123456789$"):
+    for i in tqdm(bar, desc = "loading : ",ascii="123456789♦"):
         sleep(.6)
 
 print("\n")
