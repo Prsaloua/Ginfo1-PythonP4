@@ -1,16 +1,16 @@
 # Ginfo1-PythonP4
 ## GIT COMMAND
-Ajouter le fichier/dossier à .git :
 
+> Ajouter le fichier/dossier à .git :
 git add <nom_du_fichier ou nom_du_dossier>
-faire un commit :
 
+> faire un commit :
 git commit -m "votre message ici"
-synchroniser le dossier du travail avec le repository GitHub :
 
+> synchroniser le dossier du travail avec le repository GitHub :
 git remote -v
-envoyer les fichiers/dossiers vers le repository GitHub :
 
+> envoyer les fichiers/dossiers vers le repository GitHub :
 git push origin main
 ### VERSION OF SAMIA TOURRIZ
 
